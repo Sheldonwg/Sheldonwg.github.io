@@ -1,5 +1,6 @@
 ## 简历
 ### 个人信息
+<img src="https://github.com/Sheldonwg/Sheldonwg.github.io/edit/master/AMI.jpg" width="150" height="150" alt="图片加载失败时，显示这段字"/>
 姓名：王晓东<br>
 性别：男<br>
 学校：[北京信息科技大学](https://www.bistu.edu.cn)
