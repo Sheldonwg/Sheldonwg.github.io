@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## 个人简历
 
 You can use the [editor on GitHub](https://github.com/Sheldonwg/Sheldonwg.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sheldonwg/Sheldonwg.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 个人信息
+姓名：王晓东
+性别：男
+学校：[北京信息科技大学](https://bistu.edu.cn)
+### 教育经历
+2017年9月-2021年7月：
+北京信息科技大学 数据科学与大数据技术专业 本科生
+### 所获荣誉
+2017-2018学年度国家奖学金
+2018-2019学年度国家励志奖学金
+2018-2019学年北京信息科技大学校长奖学金（全校10名，不分本硕）
+### 论文出版
+**Wang, Xiaodong** , et al. Background Cleaning and Direction Weight in Salient Object Detection. Pattern Recognition and Computer Vision, Third Chinese Conference, PRCV 2020. (录用率：39.8%，[国内视觉顶会](https://www.prcv.cn))
+**Wang, Xiaodong** , Z. Wang , and X. Huang . "Salient Object Detection via Depth and Contrast Networks." ICMSSP 2020: 2020 5th International Conference on Multimedia Systems and Signal Processing 2020. (EI)
+Jia M, **Wang X**, Xu Y, et al. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations[J]. International journal of performability engineering, 2020, 16(1). (EI)
