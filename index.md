@@ -10,7 +10,7 @@
 2017-2018学年度国家奖学金<br />
 2018-2019学年度国家励志奖学金<br />
 2018-2019学年北京信息科技大学校长奖学金（全校10名，不分本硕）
-### 论文出版<
+### 论文出版
 <p><strong>Wang, Xiaodong</strong> , et al. Background Cleaning and Direction Weight in Salient Object Detection. Pattern Recognition and Computer Vision, Third Chinese Conference, PRCV 2020. (录用率：39.8%，<a href="http://www.prcv.cn">国内视觉顶会</a>)<br />
 <strong>Wang, Xiaodong</strong> , Z. Wang , and X. Huang . “Salient Object Detection via Depth and Contrast Networks.” ICMSSP 2020: 2020 5th International Conference on Multimedia Systems and Signal Processing 2020. (EI)<br />
 Jia M, <strong>Wang X</strong>, Xu Y, et al. Testing Machine Learning Classifiers based on Compositional Metamorphic Relations[J]. International journal of performability engineering, 2020, 16(1). (EI)<br />
